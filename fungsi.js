@@ -6,12 +6,12 @@ var foFloat = parseFloat(y);
 var toSting = toNum.toString();
 console.log(toSting + toSting); 
 
-//fungsi
+//fungsi deklarasi 
 function jumlah(a, b) {
     return a + b;
 }
 
-//fungsi 
+//fungsi expresi 
 var kurang = function (a, b) {
     return a - b;
 };
